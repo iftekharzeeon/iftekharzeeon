@@ -17,6 +17,7 @@
 - :nerd_face: I am comfortable with `Backend Development Project`
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for any `Open Source Development Project`, this is [MY RESUME](https://drive.google.com/file/d/1Xo8g4WSRwHh26j5SzuGajcISiea2urJ1/view?usp=sharing).
+- :writing_hand: You can find all my academic codes here <a href="https://github.com/iftekharzeeon/undergraduate_academics"><img alt="Acadmemics" src="https://img.shields.io/badge/-CSE__BUET__ACADEMICS-yellowgreen"></a>
 
 
 <br>
@@ -155,10 +156,6 @@
 ----
 
 <br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekharzeeon&layout=compact&theme=algolia" alt="iftekharzeeon" /></a> </p>
 
 -----
 
