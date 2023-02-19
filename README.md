@@ -114,21 +114,6 @@
     
 </p>
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=plastic&logo=apache%20netbeans%20IDE&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=plastic&logo=arduino&logoColor=white" /></a>
-</p>
-
  ### 👉 Operating Systems
  
 <p align="center">
@@ -159,4 +144,4 @@
 
 -----
 
-Last Edited on: 28/01/2023
+Last Edited on: 19/02/2023
